@@ -20,6 +20,6 @@
     <img align="left" alt="Tejas Soni | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br>
+<br><br>
 
 ⭐️ From [Tejas Soni](https://github.com/Tejas-Soni)
