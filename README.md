@@ -12,7 +12,14 @@
 ✉️ &nbsp;You can connect with me on social media and I will respond you as soon as I can.
 
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas-Soni&show_icons=true">
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/Tejas-Soni">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejas-Soni&show_icons=true&include_all_commits=true&"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tejas-Soni&layout=compact&langs_count=8"/>
+</a>
+</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tejas-Soni.Tejas-Soni)
 
