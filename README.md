@@ -40,4 +40,7 @@
 
 <br><br>
 
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tejas-Soni" alt="TejasSoni" /></a> </p> -->
+
+
 ⭐️ From [Tejas Soni](https://github.com/Tejas-Soni)
