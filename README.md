@@ -11,7 +11,6 @@
 💬 &nbsp;Feel free to reach out to me for projects, queries, or just for some interesting discussion.\
 ✉️ &nbsp;You can connect with me on social media and I will respond you as soon as I can.
 
-&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
